@@ -9,3 +9,7 @@
 ☆ 日本語を少しずつ楽しんで上達しています。
 
 ```
+
+### my links
+🔗 https://graciousgames.itch.io
+🔗 https://ordinarygames.itch.io/catharinasadventure
