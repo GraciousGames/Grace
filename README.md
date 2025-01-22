@@ -1,11 +1,11 @@
 # Grace
 ## About me
 ```
-☆ level 24 (4th april 2000) 
-☆ Hamburg, Germany
-☆ media systems student @HAW Hamburg, Germany (2nd semester) 
-☆ I'm currently learning Java, Javascript and Python 
-☆ interested in developing videogames 
-☆ 日本語を少しずつ楽しんで上達しています。
+🎮 Level 24 (Unlocked on April 4, 2000)
+Spawned in: Hamburg, Germany Quest: Media Systems @ HAW Hamburg, 2nd Semester
+Skills Grinding: Java, JavaScript, Python 🖥️ (and dabbling in 日本語, because why not?)
+Ultimate Goal: Crafting games so good, you forget what sunlight feels like 🌞🚫
+Hobbies: Getting lost in books 📚, leveling up in videogames 🎮, and sketching worlds that don’t exist ✍️🖤
+Fun Fact: Can debug code faster than deciding what to eat for dinner. 🐛🍕
 
 ```
